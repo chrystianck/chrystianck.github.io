@@ -8,6 +8,7 @@
     <link href="style.css" rel="stylesheet" type="text/css" />
   </head>
   <body>
+    <div class="menu largura">
     <a href="index.html">Ínicio</a>
     <a href="Games.html">Games</a>
     <a href="Filmes.html">Filmes</a>
