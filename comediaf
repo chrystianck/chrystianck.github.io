@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed&display=swap" rel="stylesheet">
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <a href="index.html">Ínicio</a>
+    <a href="Games.html">Games</a>
+    <a href="Filmes.html">Filmes</a>
+    <a href="Animes.html">Animes</a>
+    <a href="hobbies.html">hobbies</a>
+  </div>
+  <h1>Meus Filmes de Comédia Favoritos</h1>
+  <h2>Vizinhos</h2>
+  <img
+  src="https://i1.wp.com/br.nacaodamusica.com/wp-content/uploads/2016/06/vizinhos-e1464921309733.jpg" width="400px">
+  <h2>Policial em Apuros</h2>
+  <img
+  src="https://entreterse.com.br/wp-content/uploads/2019/01/Policial-em-Apuros-2-e1547555542837.jpg" width="400px">
+  </body>
+  <h2>Gênios do Crime</h2>
+  <img
+  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH87Zf5oQNXD7_zSfJ4hAHnqdQjSUyBVn21YHE6STLcwgyIDb7" width="400px">
+  </body>
+</html>
